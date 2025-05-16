@@ -130,4 +130,3 @@ If there are missing dependencies, return to the online server and download them
 
 ---
 
-Need additional troubleshooting steps? Feel free to reach out! 👍🙂
